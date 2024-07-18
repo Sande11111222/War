@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surprise!</title>
+</head>
+<body>
+    <h1>Hello, Friend!</h1>
+    <img src="your-image-url.jpg" alt="Surprise Image" style="width:100%; height:auto;">
+    <audio controls autoplay>
+        <source src="your-music-url.mp3" type="audio/mp3">
+        Your browser does not support the audio element.
+    </audio>
+</body>
+</html>
